@@ -1,0 +1,19 @@
+{
+  "key.category.freecam.main": "Freecam",
+  "key.freecam.toggle": "Toggle Freecam",
+  "key.freecam.config": "Open Freecam settings",
+  "freecam.config.title": "Freecam Settings",
+  "freecam.config.value": "%s: %s",
+  "freecam.config.speed": "Speed",
+  "freecam.config.sprint": "Sprint multiplier",
+  "freecam.config.vertical": "Vertical speed",
+  "freecam.config.smoothing": "Smoothing",
+  "freecam.config.follow_look": "Fly where you look",
+  "freecam.config.allow_interaction": "Allow interaction",
+  "freecam.config.disable_on_damage": "Stop when hurt",
+  "freecam.config.show_messages": "Show messages",
+  "freecam.config.reset": "Reset",
+  "freecam.message.on": "Freecam enabled",
+  "freecam.message.off": "Freecam disabled",
+  "freecam.message.damage": "Freecam disabled: you took damage"
+}

@@ -1,0 +1,19 @@
+{
+  "key.category.freecam.main": "Freecam",
+  "key.freecam.toggle": "Activer/désactiver la Freecam",
+  "key.freecam.config": "Ouvrir les réglages Freecam",
+  "freecam.config.title": "Réglages Freecam",
+  "freecam.config.value": "%s : %s",
+  "freecam.config.speed": "Vitesse",
+  "freecam.config.sprint": "Multiplicateur de sprint",
+  "freecam.config.vertical": "Vitesse verticale",
+  "freecam.config.smoothing": "Inertie",
+  "freecam.config.follow_look": "Voler vers le regard",
+  "freecam.config.allow_interaction": "Autoriser les interactions",
+  "freecam.config.disable_on_damage": "Stop si dégâts",
+  "freecam.config.show_messages": "Afficher les messages",
+  "freecam.config.reset": "Réinitialiser",
+  "freecam.message.on": "Freecam activée",
+  "freecam.message.off": "Freecam désactivée",
+  "freecam.message.damage": "Freecam désactivée : tu as subi des dégâts"
+}
